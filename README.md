@@ -1,0 +1,1 @@
+# Djang-queryset-and-managers
